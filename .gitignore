@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data (can be regenerated)
+superstore_clean.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
