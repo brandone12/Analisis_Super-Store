@@ -15,7 +15,7 @@ appropriate skill and follows that skill's instructions. Each skill produces
 cells for `superstore-analysis.ipynb`.
 
 ## Stack & Setup
-- Python 3.11+, **Poetry** for deps (no `requirements.txt`)
+- Python 3.11+, **Poetry** for deps.
 - `poetry install` → `poetry run jupyter notebook` to work
 - `poetry add <lib>` for new dependencies
 - Libraries: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
